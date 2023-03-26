@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+mikita/__init__.py
+mikita/assets.py
+mikita.egg-info/PKG-INFO
+mikita.egg-info/SOURCES.txt
+mikita.egg-info/dependency_links.txt
+mikita.egg-info/requires.txt
+mikita.egg-info/top_level.txt

@@ -1,0 +1,13 @@
+dagster
+duckdb
+pandas
+sqlescapy
+lxml
+html5lib
+
+[dev]
+dagit
+pytest
+localstack
+awscli
+awscli-local
